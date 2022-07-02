@@ -13,3 +13,6 @@ In other words, the company wants to understand the driving factors (or driver v
 ### EDA Report / PPT:
 
 https://github.com/Sri1712/Credit-EDA-Case-Study/blob/main/Credit%20EDA%20assignment.pdf
+
+### Jupyter Notebook:
+
