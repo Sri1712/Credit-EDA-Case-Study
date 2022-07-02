@@ -16,3 +16,4 @@ https://github.com/Sri1712/Credit-EDA-Case-Study/blob/main/Credit%20EDA%20assign
 
 ### Jupyter Notebook:
 
+https://github.com/Sri1712/Credit-EDA-Case-Study/blob/main/Credit%20EDA%20Assignment.ipynb
